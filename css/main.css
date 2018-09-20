@@ -24,7 +24,7 @@ li {
 }
 
 li a {
-	font-family: product sans;
+	font-family: 'Montserrat', sans-serif;
 	font-weight:600;
 	font-size:19px;
 	letter-spacing: 1px;
@@ -78,7 +78,7 @@ color:#00ffcc;
 	right:17px;
 }
 #headerid   {
-	font-family: product sans;
+	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	font-size:3em;
 	color:#0d0d0d;
@@ -89,7 +89,7 @@ color:#00ffcc;
 }
 /*paragraph*/
 #para p {
-	font-family: product sans;
+	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0.25px;
 	font-size:16px;
 	line-height:20px;
@@ -104,7 +104,7 @@ color:#00ffcc;
 }
 /*Buttons style*/
 .button {
-	font-family: product sans;
+	font-family: 'Montserrat', sans-serif;
 	background: #7955ff; /* Old browsers */
     background: -moz-linear-gradient(left, #7955ff 0%, #94b0ff 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, #7955ff 0%,#94b0ff 100%); /* Chrome10-25,Safari5.1-6 */
