@@ -78,7 +78,7 @@ color:#00ffcc;
 	right:17px;
 }
 #headerid   {
-	font-family: 'Product sans';
+	font-family:'Product sans';
 	letter-spacing: 1px;
 	font-size:2em;
 	color:#0d0d0d;
@@ -89,7 +89,7 @@ color:#00ffcc;
 }
 /*paragraph*/
 #para p {
-	font-family: 'Product sans';
+	font-family:'Product sans';
 	letter-spacing: 1px;
 	font-size:12px;
 	line-height:20px;
