@@ -89,7 +89,7 @@ color:#00ffcc;
 }
 /*paragraph*/
 #para p {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Product sans';
 	letter-spacing: 0.25px;
 	font-size:12px;
 	line-height:20px;
@@ -104,7 +104,7 @@ color:#00ffcc;
 }
 /*Buttons style*/
 .button {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Product sans';
 	background: #7955ff; /* Old browsers */
     background: -moz-linear-gradient(left, #7955ff 0%, #94b0ff 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, #7955ff 0%,#94b0ff 100%); /* Chrome10-25,Safari5.1-6 */
