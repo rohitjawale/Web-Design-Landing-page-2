@@ -24,7 +24,7 @@ li {
 }
 
 li a {
-	font-family: 'Montserrat', sans-serif;
+	font-family:'Product sans';
 	font-weight:600;
 	font-size:19px;
 	letter-spacing: 1px;
@@ -78,7 +78,7 @@ color:#00ffcc;
 	right:17px;
 }
 #headerid   {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Product sans';
 	letter-spacing: 1px;
 	font-size:2em;
 	color:#0d0d0d;
